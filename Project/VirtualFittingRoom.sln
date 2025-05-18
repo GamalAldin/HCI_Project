@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualFittingRoom", "VirtualFittingRoom\VirtualFittingRoom.csproj", "{0CBA6410-3B1C-440D-ADC6-0A9F6F9A7592}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CBA6410-3B1C-440D-ADC6-0A9F6F9A7592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBA6410-3B1C-440D-ADC6-0A9F6F9A7592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBA6410-3B1C-440D-ADC6-0A9F6F9A7592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBA6410-3B1C-440D-ADC6-0A9F6F9A7592}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF6588C9-E5A2-4E17-A25A-0A29C372DCD3}
+	EndGlobalSection
+EndGlobal

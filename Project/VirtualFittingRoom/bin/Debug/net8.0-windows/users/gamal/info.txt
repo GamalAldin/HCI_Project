@@ -1,0 +1,5 @@
+FirstName=Gamal
+LastName=Aldin
+Username=gamal
+Password=test123
+Gender=Male

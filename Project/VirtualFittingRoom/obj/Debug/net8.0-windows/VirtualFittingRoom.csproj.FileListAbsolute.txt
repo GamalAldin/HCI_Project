@@ -1,0 +1,50 @@
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.csproj.GenerateResource.cache
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.AssemblyInfo.cs
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.Form1.resources
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\bin\Debug\net8.0-windows\VirtualFittingRoom.exe
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\bin\Debug\net8.0-windows\VirtualFittingRoom.deps.json
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\bin\Debug\net8.0-windows\VirtualFittingRoom.runtimeconfig.json
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\bin\Debug\net8.0-windows\VirtualFittingRoom.dll
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\bin\Debug\net8.0-windows\VirtualFittingRoom.pdb
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\bin\Debug\net8.0-windows\AForge.dll
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\bin\Debug\net8.0-windows\AForge.Video.dll
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\bin\Debug\net8.0-windows\AForge.Video.DirectShow.dll
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualF.5343C35D.Up2Date
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.dll
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\obj\Debug\net8.0-windows\refint\VirtualFittingRoom.dll
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.pdb
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.genruntimeconfig.cache
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\obj\Debug\net8.0-windows\ref\VirtualFittingRoom.dll
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\bin\Debug\net8.0-windows\ExCSS.dll
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\bin\Debug\net8.0-windows\Svg.dll
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.LoginForm.resources
+C:\Users\user\Desktop\HCI Project\VirtualFittingRoom\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.Properties.Resources.resources
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.csproj.AssemblyReference.cache
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.Form1.resources
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.LoginForm.resources
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.Properties.Resources.resources
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.csproj.GenerateResource.cache
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.AssemblyInfoInputs.cache
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.AssemblyInfo.cs
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.csproj.CoreCompileInputs.cache
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\bin\Debug\net8.0-windows\VirtualFittingRoom.exe
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\bin\Debug\net8.0-windows\VirtualFittingRoom.deps.json
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\bin\Debug\net8.0-windows\VirtualFittingRoom.runtimeconfig.json
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\bin\Debug\net8.0-windows\VirtualFittingRoom.dll
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\bin\Debug\net8.0-windows\VirtualFittingRoom.pdb
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\bin\Debug\net8.0-windows\AForge.dll
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\bin\Debug\net8.0-windows\AForge.Video.dll
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\bin\Debug\net8.0-windows\AForge.Video.DirectShow.dll
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\bin\Debug\net8.0-windows\ExCSS.dll
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\bin\Debug\net8.0-windows\Svg.dll
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualF.5343C35D.Up2Date
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.dll
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\obj\Debug\net8.0-windows\refint\VirtualFittingRoom.dll
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.pdb
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\obj\Debug\net8.0-windows\VirtualFittingRoom.genruntimeconfig.cache
+D:\UNI\HCI\Projecthci\Project\VirtualFittingRoom\obj\Debug\net8.0-windows\ref\VirtualFittingRoom.dll
